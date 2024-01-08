@@ -1,0 +1,14 @@
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-adspace.php on line 6
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-blogauthor.php on line 5
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-embed.php on line 7
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-flickr.php on line 5
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-recent.php on line 6
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-search.php on line 5
+[20-May-2012 05:11:59] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-twitter.php on line 5
+[29-Jan-2013 14:15:52] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-adspace.php on line 6
+[29-Jan-2013 14:15:52] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-blogauthor.php on line 5
+[29-Jan-2013 14:15:52] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-embed.php on line 7
+[29-Jan-2013 14:15:53] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-flickr.php on line 5
+[29-Jan-2013 14:15:53] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-recent.php on line 6
+[29-Jan-2013 14:15:54] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-search.php on line 5
+[29-Jan-2013 14:15:54] PHP Fatal error:  Class 'WP_Widget' not found in /home/webvideo/public_html/pavlo.com.ua/wp-content/themes/themorningafter/includes/widgets/widget-woo-twitter.php on line 5

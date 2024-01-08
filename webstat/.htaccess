@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/pavlo.com.ua/webstat"
+AuthUserFile /var/www/vdovic1/data/etc/2490975.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

@@ -1,0 +1,10 @@
+[20-May-2012 05:12:08] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/comments-popup.php on line 10
+[20-May-2012 05:12:08] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/comments.php on line 10
+[20-May-2012 05:12:09] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/footer.php on line 10
+[20-May-2012 05:12:09] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/header.php on line 10
+[20-May-2012 05:12:09] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/sidebar.php on line 10
+[29-Jan-2013 14:16:40] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/comments-popup.php on line 10
+[29-Jan-2013 14:16:40] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/comments.php on line 10
+[29-Jan-2013 14:16:40] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/footer.php on line 10
+[29-Jan-2013 14:16:40] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/header.php on line 10
+[29-Jan-2013 14:16:40] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/webvideo/public_html/pavlo.com.ua/wp-includes/theme-compat/sidebar.php on line 10
